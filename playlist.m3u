@@ -1,0 +1,12 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="" tvg-name="[TRIAL GRATIS] DAFTAR DI INDOIPTV.SITE/TRIAL" tvg-logo="https://indoiptv.site/favicon.svg" group-title="📢 TRIAL GRATIS 4 JAM",*** DAFTAR AKUN TRIAL DI: INDOIPTV.SITE/TRIAL ***
+http://commondatastorage.googleapis.com/gtv-videos-bucket/sample/BigBuckBunny.mp4
+
+#EXTINF:-1 tvg-id="TVRI" tvg-name="TVRI Nasional" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/41/TVRI_logo.svg" group-title="Lokal TV",TVRI Nasional
+https://videocdn.tvri.go.id/hls/tvri.m3u8
+
+#EXTINF:-1 tvg-id="TVRISport" tvg-name="TVRI Sports" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/41/TVRI_logo.svg" group-title="Lokal TV",TVRI Sports
+https://videocdn.tvri.go.id/hls/tvrisport.m3u8
+
+#EXTINF:-1 tvg-id="RRINet" tvg-name="RRI NET" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/25/Logo_RRI_Net.png" group-title="Lokal TV",RRI NET
+https://rristream.akamaized.net/hls/live/2018898/rri_net/index.m3u8
